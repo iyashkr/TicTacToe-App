@@ -15,6 +15,6 @@
 
 <h3 align="center"> Tic-Tac-Toe game app made with Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20"/> </a></h3>
 
-### [<p align="center">🔗 Demo video </p>](#)
+<!-- ### [<p align="center">🔗 Demo video </p>](#) -->
 
 <h3 align="center"> Show ❤️ by Starring this Repo </h3>
